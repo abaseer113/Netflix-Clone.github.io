@@ -1,0 +1,262 @@
+*{
+    margin: 0;
+    font-family: arial;
+    border: border-box;
+}
+.nav-bar{
+    height: 56px;
+    background-color: #000000;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+
+}
+.netflix-logo{
+    background-image: url(logo-1.png);
+    height: 40px;
+    width: 110px;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+.logo-div{
+    width: 60%;
+    height: 40px ;
+    display: flex;
+    
+    align-items: center;
+}
+.heading{
+    color: white;
+    font-size: 0.75rem;
+    
+    
+}
+.join-now{
+    height: 33px;
+    width: 112px;
+    background-color: #E50914;
+    font-size: 0.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;  
+    border: 1.5px solid white;
+}
+.join-now button{
+    height: 33px;
+    width: 112px;
+    background-color: #E50914;
+    color: white;
+}
+.sign-in{
+    width: 90px;
+    height: 33px;
+    border: 1.5px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.75rem;
+}
+.sign-in button{
+    background-color: #000000;
+    color: white;
+    height: 33px;
+    width: 90px;
+    
+}
+    
+
+.sign-in:hover{
+    background-color: #5b5f63;
+    border: 2px solid black;
+    border: 2px solid white;
+}
+.join-now:hover{
+    border: 1px solid wheat;
+}
+.hero-section{
+    height: 100%;
+    background-color: #181818;
+    width: 100%;
+}
+.mov{
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+}
+.mov-ie{
+    height: 63px;
+    width: 598;
+    padding-left: 40px;
+    padding-top: 50px;
+    color: white;
+    font-size: 19px;
+}
+.message{
+    height: 63px;
+    width: 598;
+    margin: 1.69px 0px 0px;
+    padding-left: 40px ;
+    color: white;
+    font-size: 20px;
+}
+.New-release{
+    height: 27px;
+    
+    background-color: #181818;
+    color: white;
+    margin-top: 50px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    font-size: 21px;
+    font-weight: 700;
+}
+.pictures{
+    height: 168px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+
+.picOne{
+    height: 168px;
+    width: 299px;
+    background-size: cover;
+}
+.picOne p{
+    display: flex;
+    justify-content: center;
+}
+.picTwo{
+    height: 168px;
+    width: 299px;
+    background-size: cover;
+
+}
+.picThree{
+    height: 168px;
+    width: 299px;
+    background-size: cover;
+
+}
+.picFour{
+    height: 168px;
+    width: 299px;
+    background-size: cover;
+
+}
+.dis_cription{
+    height: 20px;
+    background-color: #181818;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.One{
+    width: 299px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    padding-top: 13px;
+    
+}
+.Two{
+    width: 299px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    padding-top: 13px;
+    
+}
+.Three{
+    width: 299px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    padding-top: 13px;
+    
+}
+.four{
+    width: 299px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    padding-top: 13px;
+    
+}
+.New-release a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer_pannel{
+    height: 500px;
+    background-color: #181818;
+    
+    
+   
+}
+.more{
+    padding-top: 140px;
+    color: white;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.last{
+    color: white;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.space{
+    height: 30px;
+}
+.spaceTwo{
+    height: 30px;
+}
+
+.join-now_last{
+    height: 50px;
+    width: 183px;
+    background-color: #E50914;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+   
+    
+}
+.buttonTwo{
+    height: 50px;
+    width: 183px;
+    background-color: #E50914;
+    color: white;
+    font-size: 20px;
+    
+    
+}
+.please{
+    height: 50px;
+    background-color: #181818;
+    display: flex;
+    justify-content: center;
+   
+    
+}
